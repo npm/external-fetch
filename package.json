@@ -1,0 +1,25 @@
+{
+  "name": "@npmcorp/external-fetch",
+  "version": "1.0.0",
+  "description": "wrapper around fetch that tracks metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "Raquel Vélez <raquel@rckbt.me>",
+  "license": "ISC",
+  "devDependencies": {
+    "nock": "^8.0.0",
+    "tap": "^6.2.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "bole": "^3.0.1",
+    "freshy": "^1.0.2",
+    "moment-tokens": "^1.0.0",
+    "node-fetch": "^1.5.3"
+  }
+}
