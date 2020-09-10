@@ -20,7 +20,7 @@
     "bole": "^3.0.1",
     "freshy": "^1.0.2",
     "moment-tokens": "^1.0.0",
-    "node-fetch": "^1.5.3"
+    "node-fetch": "^2.6.1"
   },
   "directories": {
     "test": "test"
